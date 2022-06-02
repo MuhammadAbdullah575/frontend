@@ -1,0 +1,14 @@
+#imageroom{
+    width: 100%;
+    height:100%;
+    margin-left: -12px;
+    padding-right: 0px;
+    border-radius: 10px;
+}
+.room-title{
+    margin-left: 20px;
+}
+#card-room{
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px rgb(202, 201, 201);
+}
